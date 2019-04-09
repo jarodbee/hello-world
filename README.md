@@ -1,2 +1,2 @@
 # hello-world
-the beginning of somathing nice
+the beginning of something nice
